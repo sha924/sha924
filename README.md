@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd240c2Jhem03Z2JlZG56b253MnBxOWR6bzBtaWtkejRnbXJrZmd6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif " alt="Shahil Kamble Banner" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd240c2Jhem03Z2JlZG56b253MnBxOWR6bzBtaWtkejRnbXJrZmd6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Shahil Kamble Banner" />
 </p>
 
 <!-- Typing Effect -->
@@ -28,7 +28,7 @@ I am **shahil**, a passionate **Full Stack Developer and Software Engineer**. I 
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,react,nextjs,nodejs,express,flask,django,mongodb,mysql,firebase,sqlite,tensorflow,pytorch,docker,kubernetes,git,github,aws,gcp,azure,bash,postman,vscode,pycharm" />
 </p>
 
-## 📫 Connect with Me        
+## 📫 Connect with Me      
 
 <p align="center">
   <a href="mailto:shahilkamble101@gmail.com">
@@ -37,7 +37,7 @@ I am **shahil**, a passionate **Full Stack Developer and Software Engineer**. I 
   <a href="https://www.linkedin.com/in/shahilkamble21">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Sanjeevini0421">
+  <a href="https://github.com/sha924">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
