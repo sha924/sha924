@@ -17,15 +17,14 @@ I am **shahil**, a passionate **Full Stack Developer and Software Engineer**. I 
 > _"Transforming data into decisions. Code into solutions. Problems into progress."_
 
 - 🌍 Based in **India**    
-- ✉️ Email: [shahilkamble101@gmail.com](mailto:shahilkamble101@gmail.com)  
-- 🧠 Learning: **React and Java**  
+- ✉️ Email: [shahilkamble101@gmail.com](mailto:shahilkamble101@gmail.com)   
 - 🤝 Open to **collaborations and contributions**  
 
 
 
 ### 🚀 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,react,nextjs,nodejs,express,flask,django,mongodb,mysql,firebase,sqlite,tensorflow,pytorch,docker,kubernetes,git,github,aws,gcp,azure,bash,postman,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,aws,azure,vscode" />
 </p>
 
 ## 📫 Connect with Me      
@@ -40,7 +39,4 @@ I am **shahil**, a passionate **Full Stack Developer and Software Engineer**. I 
   <a href="https://github.com/sha924">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sha924&style=flat-square&color=blue" alt="GitHub profile views" />
 </p>
